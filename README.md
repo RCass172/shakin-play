@@ -1,45 +1,38 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#UX
 
-Welcome RCass172,
+##Project Goals
+The primary goal of this website is to give all the relevant information to a user in an appealing and simple way. The site is designed 
+to be as clear and easy to use while also looking professional to help stand out from other competitors.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+##User Goals
 
-## Gitpod Reminders
+*Easy to use on mobile, tablet and desktop
+*Visually appealing
+*Relevant content
+*Easy to navigate to seperate sections
+*Contact details easy to find
+*Testimonials and videos to showcase what they offer
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+##Business Goals
 
-`python3 -m http.server`
+*Stand out from other competitors
+*Showcase what they can provide
+*Professional looking website
+*increase bookings
 
-A blue button should appear to click: *Make Public*,
+##User stories
 
-Another blue button should appear to click: *Open Browser*.
+As a user i would like:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+1. To see testimonials of what other people thought about their service
+2. To be able to navigate easily from each page
+3. Visual icons easy to understand and recognise
+4. An easy to use yet visually appealing website
+5. The webite to look good regardless of what device i use
+6. To feel like the business is professional by the look and feel of website
+7. The feeling that this business is better than other competitors to help decide on booking
+8. Social media links present so i can investigate further if needed
+9. Any links i click on to open in a new tab
+10. Videos to show what they can do
+11. To be able to easily contact the business
+12. To learn more about their history
