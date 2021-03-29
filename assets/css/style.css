@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "roboto", sans-serif;
+}
+
+/*------------------------------navbar------------------------------------*/
+
+.navbar {
+    background-color: #b95f76;
+    width: 100%;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+/*------------------------------Hero image------------------------------------*/
+
+.hero-image {
+    background-image: url(/assets/images/band2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+/*------------------------------sections------------------------------------*/
+
+.about-us {
+    background-color: #b95f76;
+    text-align: center;
+    padding: 20px;
+}
+
+.about-us h4 {
+    font-family: "poppins", sans-serif;
+    font-weight: bold;
+}
