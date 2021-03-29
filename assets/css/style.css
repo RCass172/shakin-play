@@ -31,10 +31,51 @@ body {
 .about-us {
     background-color: #b95f76;
     text-align: center;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
 
 .about-us h4 {
     font-family: "poppins", sans-serif;
     font-weight: bold;
+}
+
+.who-box, .showcase-box {
+    padding-top: 30px;
+}
+
+.testimonial {
+    background-color: #c2c1b9;
+    padding: 20px;
+}
+
+.testimonial h4 {
+    text-align: center;
+    font-family: "poppins", sans-serif;
+    font-weight: bold;
+}
+
+/*------------------------------footer------------------------------------*/
+
+footer {
+    background-color: #2f4858;
+}
+
+
+.social-network {
+    text-align: center;
+}
+
+.social-network li{
+    display: inline;
+}
+
+.social-network i {
+    font-size: x-large;
+    padding: 15px;
+    color: #b95f76;
+}
+
+.media-col p {
+    text-align: center;
 }
