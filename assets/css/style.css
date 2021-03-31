@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "roboto", sans-serif;
+    font-size: 18px;
 }
 
 /*------------------------------navbar------------------------------------*/
@@ -26,11 +27,21 @@ body {
     height: 80vh;
 }
 
+.hero-image2 {
+    background-image: url(../images/lights.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
 /*------------------------------sections------------------------------------*/
 
 .about-us {
     background-color: #b95f76;
     text-align: center;
+    text-transform: capitalize;
     padding-top: 20px;
     padding-bottom: 40px;
 }
@@ -38,6 +49,7 @@ body {
 .about-us h4 {
     font-family: "poppins", sans-serif;
     font-weight: bold;
+    font-size: 28px;
 }
 
 .who-box, .showcase-box {
@@ -53,12 +65,19 @@ body {
     text-align: center;
     font-family: "poppins", sans-serif;
     font-weight: bold;
+    font-size: 28px;
 }
+
+.btn {
+    color: #2f4858;
+}
+
 
 /*------------------------------footer------------------------------------*/
 
 footer {
     background-color: #2f4858;
+    color: #c2c1b9;
 }
 
 
@@ -72,10 +91,16 @@ footer {
 
 .social-network i {
     font-size: x-large;
-    padding: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
     color: #b95f76;
 }
 
 .media-col p {
     text-align: center;
+}
+
+.footer-email p {
+    text-align: center;
+
 }
