@@ -8,7 +8,7 @@ body {
 /*------------------------------navbar------------------------------------*/
 
 .navbar {
-    background-color: #b95f76;
+    background-color: #C98394;
     width: 100%;
 }
 
@@ -19,7 +19,7 @@ body {
 /*------------------------------Hero image------------------------------------*/
 
 .hero-image {
-    background-image: url(../images/band2.jpg);
+    background-image: url(../images/Band2.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -39,9 +39,8 @@ body {
 /*------------------------------sections------------------------------------*/
 
 .about-us {
-    background-color: #b95f76;
+    background-color: #C98394;
     text-align: center;
-    text-transform: capitalize;
     padding-top: 20px;
     padding-bottom: 40px;
 }
@@ -49,16 +48,25 @@ body {
 .about-us h4 {
     font-family: "poppins", sans-serif;
     font-weight: bold;
+    text-transform: capitalize;
     font-size: 28px;
+    margin-bottom: 20px;
 }
 
 .who-box, .showcase-box {
     padding-top: 30px;
 }
 
+.showcase-box i {
+    color: black;
+    padding-top: 15px;
+}
+
 .testimonial {
     background-color: #c2c1b9;
-    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
 }
 
 .testimonial h4 {
@@ -66,17 +74,19 @@ body {
     font-family: "poppins", sans-serif;
     font-weight: bold;
     font-size: 28px;
+    margin-bottom: 20px;
 }
 
-.btn {
-    color: #2f4858;
+.about-us .btn {
+    color: #fff;
+    font-weight: bold;
 }
 
 
 /*------------------------------footer------------------------------------*/
 
-footer {
-    background-color: #2f4858;
+.footer {
+    background-color: #2F4858;
     color: #c2c1b9;
 }
 
@@ -93,14 +103,9 @@ footer {
     font-size: x-large;
     padding-right: 15px;
     padding-top: 20px;
-    color: #b95f76;
+    color: #C98394;
 }
 
-.media-col p {
+.media-col p, .footer-email p {
     text-align: center;
-}
-
-.footer-email p {
-    text-align: center;
-
 }
