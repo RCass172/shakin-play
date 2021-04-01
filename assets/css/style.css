@@ -63,7 +63,7 @@ body {
 }
 
 
-.testimonial {
+.testimonial, .whyus-box {
     background-color: #c2c1b9;
     padding-top: 50px;
     padding-bottom: 40px;
@@ -84,6 +84,14 @@ body {
     margin-bottom: 15px;
 }
 
+.band-image {
+    background-image: url(../images/band.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
 
 /*------------------------------footer------------------------------------*/
 

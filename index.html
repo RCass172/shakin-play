@@ -58,15 +58,45 @@
                     please contact us for more information on this. 
                 </p>
                 <p>Let us make your dreams a reality</p>
-                <button type="button" class="btn btn-info"><a href="about-us.html">Find Out More</a></button>
+                <a href="about-us.html" class="btn btn-info" >Find Out More</a>
             </div>
             <div class="col-12 col-md-6 showcase-box">
                 <h4><i class="fas fa-tv"></i> Upcoming Showcase</h4>
-                <p>Saturday 8th May 2021</p>
+                <p>Saturday 8th May 2021 - Live in your living room</p>
                 <p>Register for our zoom login details</p>
                 <hr>
                 <p>8pm - 9pm</p>
-                <button type="button" class="btn btn-info">Register now</button>
+    <!-----------------------------------------------------------Bootstrap Modal----------------------------------->
+                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#registerModal">Register now</button>
+                <div class="modal fade" id="registerModal" tabindex="-1" role="dialog" aria-labelledby="registerModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="registerModalLabel"><b>Enter your details below</b></h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <form action="#" method="POST">
+                                <div class="form-group">
+                                    <label for="name1">Name:</label>
+                                    <input id="name1" class="form-control" type="text" name="full_name" placeholder="Full Name" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">Email:</label>
+                                    <input id="email" class="form-control" type="email" name="email_address" placeholder="Email Address" required>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Register Now</button>
+                            </form>
+                        </div>
+                        <div class="modal-footer">
+                            <p>Login details will be emailed on day of Showcase</p>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+    <!-----------------------------------------------------------Bootstrap modal end----------------------------------->
                 <p><i><small>Follow us on <a href="https://www.youtube.com" target="_blank">YouTube</a> for previous showcase clips</small></i></p>
             </div>
         </div>
@@ -111,7 +141,7 @@
         </div>
     </div>
 
-    <!-----------------------------------------------------------Footer----------------------------------->
+<!-----------------------------------------------------------Footer----------------------------------->
 
     <footer class="footer">
         <div class="container-fluid">
