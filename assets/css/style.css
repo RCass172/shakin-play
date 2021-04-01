@@ -53,7 +53,7 @@ body {
     margin-bottom: 20px;
 }
 
-.who-box, .showcase-box {
+.who-box, .showcase-box, .aboutus-box, .packages-box {
     padding-top: 30px;
 }
 
@@ -78,7 +78,7 @@ body {
     margin-bottom: 20px;
 }
 
-.about-us .btn {
+.about-us .btn a {
     color: #fff;
     font-weight: bold;
     margin-bottom: 15px;
