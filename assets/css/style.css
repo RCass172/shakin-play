@@ -13,7 +13,8 @@ body {
 }
 
 .navbar-nav {
-    margin-left: auto;
+    float: right;
+    text-align: right;
 }
 
 /*------------------------------Hero image------------------------------------*/
