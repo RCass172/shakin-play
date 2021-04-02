@@ -33,7 +33,7 @@ body {
     background-position: top center;
     background-size: cover;
     width: 100%;
-    height: 100vh;
+    height: 90vh;
 }
 
 /*------------------------------sections------------------------------------*/
@@ -70,7 +70,7 @@ body {
     text-align: center;
 }
 
-.testimonial h4 {
+.testimonial h4, .whyus-box h4 {
     text-align: center;
     font-family: "poppins", sans-serif;
     font-weight: bold;
@@ -84,13 +84,27 @@ body {
     margin-bottom: 15px;
 }
 
+.package-list li {
+    padding: 10px;
+    font-weight: bold;
+    list-style-type: none;
+}
+
 .band-image {
     background-image: url(../images/band.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center top;
     background-size: cover;
     height: 100%;
-    width: 100%;
+    width: inherit;
+}
+
+.whyus-points i {
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    background-color: #C98394;
+    line-height: inherit;
 }
 
 /*------------------------------footer------------------------------------*/
