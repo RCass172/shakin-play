@@ -90,13 +90,10 @@ body {
     list-style-type: none;
 }
 
-.band-image {
-    background-image: url(../images/band.jpg);
-    background-repeat: no-repeat;
-    background-position: center top;
-    background-size: cover;
+.band-image img {
+    width: 90%;
     height: 100%;
-    width: inherit;
+    padding-bottom: 20px;
 }
 
 .whyus-points i {
