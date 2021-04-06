@@ -47,7 +47,7 @@ As a user i would like:
 
 ### Wireframes
 
-Balsamiq was used to showcase the initial wireframe of website on mobile, tablet and desktop - [View](assets/wireframe/wireframe.pdf)
+Balsamiq was used to showcase the initial wireframe of website on mobile, tablet and desktop - [View Here](https://github.com/RCass172/shakin-play/blob/master/wireframe/wireframe.pdf)
 
 <hr>
 
