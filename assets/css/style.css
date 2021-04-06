@@ -45,9 +45,9 @@ body {
 
 .about-us {
     background-color: #C98394;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 40px;
+    text-align: justify;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .about-us h4 {
@@ -56,11 +56,14 @@ body {
     text-transform: capitalize;
     font-size: 28px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
-.who-box, .showcase-box, .aboutus-box, .packages-box {
-    padding-top: 30px;
+.showcase-box, .packages-box {
+    text-align: center;
 }
+
+
 
 .showcase-box a {
     color: #000;
@@ -70,8 +73,15 @@ body {
 
 .testimonial, .whyus-box {
     background-color: #c2c1b9;
-    padding-top: 50px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.testimonial {
+    text-align: justify;
+}
+
+.whyus-box {
     text-align: center;
 }
 
@@ -83,8 +93,10 @@ body {
     margin-bottom: 20px;
 }
 
-.about-us .btn a {
+.about-us .btn {
     color: #fff;
+    background-color: #2F4858;
+    border-color: #2F4858;
     font-weight: bold;
     margin-bottom: 15px;
 }
@@ -135,3 +147,4 @@ body {
 .media-col p, .footer-email p {
     text-align: center;
 }
+
