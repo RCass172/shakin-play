@@ -12,6 +12,11 @@ body {
     width: 100%;
 }
 
+.navbar-nav {
+    float: right;
+    text-align: right;
+}
+
 .navbar-nav a {
     font-weight: bold;
 }
