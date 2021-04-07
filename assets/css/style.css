@@ -103,6 +103,12 @@ body {
     padding: 10px;
     font-weight: bold;
     list-style-type: none;
+    text-align: left;
+    padding-left: 20%;
+}
+
+.package-list i {
+    padding-right: 20px;
 }
 
 .band-image img {
