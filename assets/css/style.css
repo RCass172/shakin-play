@@ -70,9 +70,13 @@ body {
    font-weight: bold;
 }
 
+.showcase-box h4 {
+    margin-bottom: 30px;
+}
+
 .showcase-box .follow-us {
     text-align: center;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .register-box {
@@ -80,7 +84,8 @@ body {
     text-align: center;
     border-radius: 20px;
     padding-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
 }
 
 .testimonial, .whyus-box {
