@@ -37,15 +37,43 @@
     <!-- Hero Image -->
 
     <section>
-        <div class="hero-image2">
-            <span class="sr-only">Hero image of band</span>
-
-        <!-- Form -->
-
-            <div>
+        <div class="container-fluid hero-image2">
+            <div class="row contact-container">
+                <div class="col">
+                    <div class="row">
+                        <div class=" col contact-header">
+                            <h1>Contact Us</h1>
+                            <hr>
+                            <p>Fill out form below with any queries or booking enquiries</p>
+                        </div>
+                    </div>
                 
+                        <!-- Form -->
+                    <div class="row">
+                        <div class="col">  
+                            <form class="form-box">
+                                <div class="form-group">
+                                    <input type="text" name="name" class="form-control" id="nameInput" placeholder="Enter Full Name" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" id="emailInput" placeholder="Enter Email" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="number" name="contactnumber" class="form-control" id="contactNumberInput" placeholder="Enter Contact Number">
+                                </div>
+                                <div class="form-group">
+                                    <label for="eventdateInput">Date Of Event If Known: </label>
+                                    <input type="date" name="eventdate" class="form-control" id="eventdateInput" placeholder="Date of event">
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control" id="moredetailtext" rows="3" required>Enter Details Here</textarea>
+                                </div>
+                                <button type="submit" class="btn">Submit</button>
+                            </form>
+                        </div> 
+                    </div>
+                </div>
             </div>
-
         </div>
     </section>
 
