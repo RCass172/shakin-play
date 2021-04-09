@@ -20,8 +20,13 @@ body {
     text-align: right;
 }
 
-.navbar-nav a {
+.navbar-nav .nav-link {
     font-weight: bold;
+    color: #000 !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #2F4858 !important;
 }
 
 /*------------------------------Hero image------------------------------------*/
@@ -52,7 +57,7 @@ body {
     padding: 30px
 }
 
-.about-us h4 {
+.about-us h2 {
     font-family: "poppins", sans-serif;
     font-weight: bold;
     text-transform: capitalize;
@@ -70,7 +75,7 @@ body {
    font-weight: bold;
 }
 
-.showcase-box h4 {
+.showcase-box h2 {
     margin-bottom: 30px;
 }
 
@@ -101,7 +106,7 @@ body {
     text-align: center;
 }
 
-.testimonial h4, .whyus-box h4 {
+.testimonial h2, .whyus-box h2 {
     text-align: center;
     font-family: "poppins", sans-serif;
     font-weight: bold;
