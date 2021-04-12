@@ -74,10 +74,9 @@ body {
     text-transform: capitalize;
 }
 
-.about-us h2 {
+.about-us h2, .testimonial h2, .whyus-box h2 {
     font-family: "poppins", sans-serif;
     font-weight: bold;
-    text-transform: capitalize;
     font-size: 28px;
     margin-bottom: 20px;
     text-align: center;
@@ -97,7 +96,6 @@ body {
 }
 
 .showcase-box .follow-us {
-    text-align: center;
     margin-top: 20px;
 }
 
@@ -121,14 +119,6 @@ body {
 
 .whyus-box {
     text-align: center;
-}
-
-.testimonial h2, .whyus-box h2 {
-    text-align: center;
-    font-family: "poppins", sans-serif;
-    font-weight: bold;
-    font-size: 28px;
-    margin-bottom: 20px;
 }
 
 .about-us .btn, .form-box .btn {
