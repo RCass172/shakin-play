@@ -65,8 +65,7 @@ body {
 /*------------------------------sections------------------------------------*/
 
 .about-us {
-    background-color: #C98394;
-    text-align: justify;
+    background-color: #C98394; 
     padding: 30px
 }
 
@@ -84,6 +83,10 @@ body {
 
 .showcase-box, .packages-box, .whyus-box {
     text-align: center;
+}
+
+.testimonial, .who-box, .aboutus-box  {
+    text-align: justify;
 }
 
 .showcase-box i a {
@@ -111,10 +114,6 @@ body {
 .testimonial, .whyus-box {
     background-color: #c2c1b9;
     padding: 30px;
-}
-
-.testimonial {
-    text-align: justify;
 }
 
 .about-us .btn, .form-box .btn {
