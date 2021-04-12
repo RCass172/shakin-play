@@ -98,6 +98,21 @@ Balsamiq was used to showcase the initial wireframe of website on mobile, tablet
 
 ## <u>Deployment</u>
 
+This project was deployed to GitHub pages by executing the following steps:
+
+1. Open GitHub and find relevant [repository](https://github.com/RCass172/shakin-play).
+2. Navigate to the <b>settings</b> tab and scroll down to <b>pages</b>.
+3. Under <b>source</b> heading click the none dropdown and select <b>master branch</b> and save.
+4. When page refreshes the website is now live and found when you click <b>settings</b> > <b>pages</b> > <b>Your site is published at </b>[link](https://rcass172.github.io/shakin-play/)
+
+To run project locally:
+
+1. Open GitHub and find relevant [repository](https://github.com/RCass172/shakin-play).
+2. Click the download code dropdown.
+3. Using the clone HTTPS option copy the link provided.
+4. Open Git Bash and change working directory to location where you want cloned directory to go.
+5. Type <b>git clone</b> command and paste the clone link you had copied.
+
 <hr>
 
 ## <u>Credits</u>
