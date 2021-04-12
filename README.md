@@ -72,11 +72,19 @@ Balsamiq was used to showcase the initial wireframe of website on mobile, tablet
 
 ### Languages
 
-* HTML
-* CSS
-* JavaScript (via Bootstrap)
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (via Bootstrap)
 
 ### Frameworks/Libraries/Programs
+
+* [Bootstrap 4.3.1](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - used for responsive pages 
+* [Fontawesome](https://fontawesome.com/)- used for aesthetics 
+* [TinyPNG](https://tinypng.com/) - used to compress images for better performance
+* [Google Fonts](https://fonts.google.com/) - roboto font used throughout all pages with poppins font used on headings, imported to the style.css file
+* [Balsamiq](https://balsamiq.com/) - used to create initial wireframes
+* [Git](https://git-scm.com/) - used for version control
+* [Gitpod](https://www.gitpod.io/) - used to write code before pushing to GitHub for storage
 
 <hr>
 
