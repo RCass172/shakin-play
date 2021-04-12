@@ -1,5 +1,7 @@
 <h1 align="center">Shakin'play Website</h1>
 
+![webpage layout on devices](assets/images/device-layout.png)
+
 ## UX
 
 ### Project Goals
