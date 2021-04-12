@@ -1,8 +1,12 @@
-<h1 align="center">Shakin'play Website</h1>
+<h1 align="center"><b>Shakin'play Website</b></h1>
 
 ![webpage layout on devices](assets/images/device-layout.png)
 
-## UX
+[Click Here To View Live Project](https://rcass172.github.io/shakin-play/)
+
+<hr>
+
+## <u>UX</u>
 
 ### Project Goals
 The primary goal of this website is to give all the relevant information to a user in an appealing and simple way. The site is designed 
@@ -53,11 +57,18 @@ Balsamiq was used to showcase the initial wireframe of website on mobile, tablet
 
 <hr>
 
-## Features
+## <u>Features</u>
+
+* Reponsive on all different device sizes
+* Call to action buttons used to help increase bookings
+* iframe used to showcase the bands performance
+* upcoming showcase with modal to register
+* social media links in footer for users to investigate further
+
 
 <hr>
 
-## Technologies Used
+## <u>Technologies Used</u>
 
 ### Languages
 
@@ -69,7 +80,7 @@ Balsamiq was used to showcase the initial wireframe of website on mobile, tablet
 
 <hr>
 
-## Testing
+## <u>Testing</u>
 
 ### Testing User Stories
 
@@ -77,8 +88,8 @@ Balsamiq was used to showcase the initial wireframe of website on mobile, tablet
 
 <hr>
 
-## Deployment
+## <u>Deployment</u>
 
 <hr>
 
-## Credits
+## <u>Credits</u>
