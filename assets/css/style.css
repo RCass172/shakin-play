@@ -82,7 +82,7 @@ body {
     text-align: center;
 }
 
-.showcase-box, .packages-box {
+.showcase-box, .packages-box, .whyus-box {
     text-align: center;
 }
 
@@ -96,7 +96,7 @@ body {
 }
 
 .showcase-box .follow-us {
-    margin-top: 20px;
+    margin-top: 1.5em;
 }
 
 .register-box {
@@ -115,10 +115,6 @@ body {
 
 .testimonial {
     text-align: justify;
-}
-
-.whyus-box {
-    text-align: center;
 }
 
 .about-us .btn, .form-box .btn {
