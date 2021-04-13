@@ -47,9 +47,11 @@ As a user i would like:
 
 ### Design
 
-* Two colors were used in the project. A type of corral and off white which matched the hero image background to help the page flow. 
- Bright colors used to make it look clean and enticing to the user.
+* Two colors were used for the background in the project. A type of corral and off white which matched the hero image background to help the page flow. Bright colors used to make it look clean and enticing to the user.
 * A large Hero image used to help get attention of user and showcase a modern look of the band to help stand out from competitors.
+* The band logo was created on the website [Free Logo Design](https://www.freelogodesign.org/)
+* Images were taken from website [Pexels](https://www.pexels.com/)
+* Inspiration was taken from these two websites [The Brian McDermott Band](https://thebrianmcdermottband.ie/) and [Blacktye](https://blacktye.net/)
 
 ### Wireframes
 
