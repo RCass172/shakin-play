@@ -4,9 +4,9 @@
 
 [Click Here To View Live Project](https://rcass172.github.io/shakin-play/)
 
-<hr>
+---
 
-## <u>UX</u>
+## UX
 
 ### Project Goals
 The primary goal of this website is to give all the relevant information to a user in an appealing and simple way. The site is designed 
@@ -30,17 +30,17 @@ to be as clear and easy to use while also looking professional to help stand out
 
 ### User stories
 
-As a user i would like:
+As a user I would like:
 
 1. To see testimonials of what other people thought about their service
 2. To be able to navigate easily from each page
 3. Visual icons easy to understand and recognise
 4. An easy to use yet visually appealing website
-5. The website to look good regardless of what device i use
+5. The website to look good regardless of what device I use
 6. To feel like the business is professional by the look and feel of website
 7. The feeling that this business is better than other competitors to help decide on booking
-8. Social media links present so i can investigate further if needed
-9. Any links i click on to open in a new tab
+8. Social media links present so I can investigate further if needed
+9. Any links I click on to open in a new tab
 10. Information to show what they can do
 11. To be able to easily contact the business
 12. To learn more about their history
@@ -57,20 +57,20 @@ As a user i would like:
 
 Balsamiq was used to showcase the initial wireframe of website on mobile, tablet and desktop - [View Here](https://github.com/RCass172/shakin-play/blob/master/wireframe/wireframe.pdf)
 
-<hr>
+---
 
-## <u>Features</u>
+## Features
 
-* Reponsive on all different device sizes
+* Responsive on all different device sizes
 * Call to action buttons used to help increase bookings
-* iframe used to showcase the bands performance
-* upcoming showcase with modal to register
-* social media links in footer for users to investigate further
+* Iframe used to showcase the bands performance
+* Upcoming showcase with modal to register
+* Social media links in footer for users to investigate further
 
 
-<hr>
+---
 
-## <u>Technologies Used</u>
+## Technologies Used
 
 ### Languages
 
@@ -84,42 +84,52 @@ Balsamiq was used to showcase the initial wireframe of website on mobile, tablet
 * [Fontawesome](https://fontawesome.com/)- used for aesthetics 
 * [TinyPNG](https://tinypng.com/) - used to compress images for better performance
 * [Google Fonts](https://fonts.google.com/) - roboto font used throughout all pages with poppins font used on headings, imported to the style.css file
-* [Balsamiq](https://balsamiq.com/) - used to create initial wireframes
 * [Git](https://git-scm.com/) - used for version control
 * [Gitpod](https://www.gitpod.io/) - used to write code before pushing to GitHub for storage
 
-<hr>
+---
 
-## <u>Testing</u>
+## Testing
 
 I used the W3C [markup](https://validator.w3.org/#validate_by_input) and [CSS](https://jigsaw.w3.org/css-validator/#validate_by_input) validation services to make sure there were no errors on all html pages and css stylesheet
 
 ### Testing User Stories
 
-1. To see testimonials of what other people thought about their service 
-- I placed the testimonial section on the first page as these rank highly for a user when searching for any service. Once the user scrolls past a little about the band they are met with these testimonials plus the footer just below with social media links where they can find more reviews if needed.
-2. To be able to navigate easily from each page
-- Navigation is key for any website which is why I have a clear and simple navigation bar at the top of each page. A hamburger navigation bar is used in mobile devices to avoid a mess and look more clean. As a user scrolls down the home page I have a find out more button to easily navigate to next page and again on the about-us page a contact us button to easily navigate to contact-us page to help the whole website flow. The website logo when clicked will always bring the user back to the homepage.
-3. Visual icons easy to understand and recognise
-- I used FontAwesome icons on section headings to help create a more recoginable feeling for what each section was as they scroll through. I also used icons in the why pick us section to for each reason, to look aesthetically pleasing and help the user understand each point more easily.
-4. An easy to use yet visually appealing website
-- I used a hero image to capture the users attention and tied in the navigation bar color and hero image background colour to match the section colors for a nice flow when scrolling down. By doing this is also makes it easier for user to see what section they are currently reading.
-5. The website to look good regardless of what device i use
-- I used the Bootstrap container layout to give the best responsive webpage layout. Using this i was able to easily have each section take up 100% width on mobiles so content was still readable and looks good. 
-6. To feel like the business is professional by the look and feel of website
-- content is easy to read with contrast colors checked and the layout looks good and not messy in any way. Relevant information is given on page with call to action buttons given to find out more as too much info would distract user initially. Navigation bars and footer with social media links and contact present as expected from any website.
-7. The feeling that this business is better than other competitors to help decide on booking
-- With the professional look as previous, plus on the homepage I have the band YouTube video to show users exactly what they are like with testimonials just under this and social media links in the footer. These all tie in together to show user what they provide, what other people thought and links to provide more ways to invesigate if needed before booking. An upcoming showcase is also added to show users they are still active and relevant with a call to action button to register for this.
-8. Social media links present so i can investigate further if needed
-- I have added the bands social links in the footer so can be found easily on all pages.
-9. Any links i click on to open in a new tab
-- I have all the external links i.e the social media links in footer and the YouTube link under video to all open in a new browser tab so user won't lose focus of website and get distracted elsewhere.
-10. Information to show what they can do
-- I have basic information about the band and video to show what they can do on the homepage, the call to action button to find out more then brings user to second page where it goes into more detail about the band and the services they provide which all leads the user to the contact page and potential bookings.
-11. To be able to easily contact the business
-- I have the band email address on the footer of all pages for users to easily find. I also have a seperate contact-us page for users to fill in their details and contact the band.
-12. To learn more about their history
-- I created an about us section on the second webpage to go into more detail about the band and their history to help users learn more about them.
+* To see testimonials of what other people thought about their service 
+  * I placed the testimonial section on the first page as these rank highly for a user when searching for any service. Once the user scrolls past a little about the band they are met with these testimonials plus the footer just below with social media links where they can find more reviews if needed.
+
+* To be able to navigate easily from each page
+  * Navigation is key for any website which is why I have a clear and simple navigation bar at the top of each page. A hamburger navigation bar is used in mobile devices to avoid a mess and look more clean. As a user scrolls down the home page I have a find out more button to easily navigate to next page and again on the about-us page a contact us button to easily navigate to contact-us page to help the whole website flow. The website logo when clicked will always bring the user back to the homepage.
+
+* Visual icons easy to understand and recognise
+  * I used FontAwesome icons on section headings to help create a more recognisable feeling for what each section was as they scroll through. I also used icons in the why pick us section to for each reason, to look aesthetically pleasing and help the user understand each point more easily.
+
+* An easy to use yet visually appealing website
+  * I used a hero image to capture the users attention and tied in the navigation bar color and hero image background colour to match the section colors for a nice flow when scrolling down. By doing this is also makes it easier for user to see what section they are currently reading.
+
+* The website to look good regardless of what device I use
+  * I used the Bootstrap container layout to give the best responsive webpage layout. Using this I was able to easily have each section take up 100% width on mobile devices so content was still readable and looks good.
+
+* To feel like the business is professional by the look and feel of website
+  * Content is easy to read with contrast colors checked and the layout looks good and not messy in any way. Relevant information is given on page with call to action buttons given to find out more as too much info would distract user initially. Navigation bars and footer with social media links and contact present as expected from any website.
+
+* The feeling that this business is better than other competitors to help decide on booking
+  * With the professional look as previous, plus on the homepage I have the band YouTube video to show users exactly what they are like with testimonials just under this and social media links in the footer. These all tie in together to show user what they provide, what other people thought and links to provide more ways to invesigate if needed before booking. An upcoming showcase is also added to show users they are still active and relevant with a call to action button to register for this.
+
+* Social media links present so I can investigate further if needed
+  * I have added the bands social links in the footer so can be found easily on all pages.
+
+* Any links I click on to open in a new tab
+  * I have all the external links i.e the social media links in footer and the YouTube link under video to all open in a new browser tab so user won't lose focus of website and get distracted elsewhere.
+
+* Information to show what they can do
+  * I have basic information about the band and video to show what they can do on the homepage, the call to action button to find out more then brings user to second page where it goes into more detail about the band and the services they provide which all leads the user to the contact page and potential bookings.
+
+* To be able to easily contact the business
+  * I have the band email address on the footer of all pages for users to easily find. I also have a seperate contact-us page for users to fill in their details and contact the band.
+
+* To learn more about their history
+  * I created an about us section on the second webpage to go into more detail about the band and their history to help users learn more about them.
 
 ### Further Testing
 
@@ -133,7 +143,7 @@ I used the W3C [markup](https://validator.w3.org/#validate_by_input) and [CSS](h
 
 ### Bugs
 
-* I had the band image on the why pick us section as an img tag in the HTML page, however on testing on different device sizes it wasn't as resposive as i liked. 
+* I had the band image on the why pick us section as an ``<img>`` tag in the HTML page, however on testing on different device sizes it wasn't as resposive as I liked. 
   * I changed this to use of the background-image property in my css stylesheet which made the image much more responsive across all device sizes.
 
 * On testing with Lighthouse using the DevTools, the contrast colors were not enough with the corral color.
@@ -142,9 +152,9 @@ I used the W3C [markup](https://validator.w3.org/#validate_by_input) and [CSS](h
 * When testing with Lighthouse the hero image was showing as loading too slow which leads to bad user experience.
   * I used the website TinyPNG to compress all my images to a smaller size to help with the loading times and performance of website.
 
-<hr>
+---
 
-## <u>Deployment</u>
+## Deployment
 
 This project was deployed to GitHub pages by executing the following steps:
 
@@ -161,6 +171,9 @@ To run project locally:
 4. Open Git Bash and change working directory to location where you want cloned directory to go.
 5. Type <b>git clone</b> command and paste the clone link you had copied.
 
-<hr>
+---
 
-## <u>Credits</u>
+## Credits
+
+### Content
+
