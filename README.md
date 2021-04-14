@@ -92,6 +92,8 @@ Balsamiq was used to showcase the initial wireframe of website on mobile, tablet
 
 ## <u>Testing</u>
 
+I used the W3C [markup](https://validator.w3.org/#validate_by_input) and [CSS](https://jigsaw.w3.org/css-validator/#validate_by_input) validation services to make sure there were no errors on all html pages and css stylesheet
+
 ### Testing User Stories
 
 ### Bugs
