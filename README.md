@@ -133,6 +133,15 @@ I used the W3C [markup](https://validator.w3.org/#validate_by_input) and [CSS](h
 
 ### Bugs
 
+* I had the band image on the why pick us section as an img tag in the HTML page, however on testing on different device sizes it wasn't as resposive as i liked. 
+  * I changed this to use of the background-image property in my css stylesheet which made the image much more responsive across all device sizes.
+
+* On testing with Lighthouse using the DevTools, the contrast colors were not enough with the corral color.
+  * I changed the corral color to a lighter shade to help with contrast and make content easier to read for the user.
+
+* When testing with Lighthouse the hero image was showing as loading too slow which leads to bad user experience.
+  * I used the website TinyPNG to compress all my images to a smaller size to help with the loading times and performance of website.
+
 <hr>
 
 ## <u>Deployment</u>
