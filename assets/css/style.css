@@ -210,3 +210,15 @@ body {
     text-align: center;
 }
 
+/*------------------------------Media rule for contact form------------------------------------*/
+
+@media only screen and (max-width: 600px) {
+    .form-box {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .contact-container {
+        width: 90%;
+    }
+  }
