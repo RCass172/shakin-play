@@ -50,8 +50,6 @@ As a user I would like:
 * Two colors were used for the background in the project. A type of corral and off white which matched the hero image background to help the page flow. Bright colors used to make it look clean and enticing to the user.
 * A large Hero image used to help get attention of user and showcase a modern look of the band to help stand out from competitors.
 * The band logo was created on the website [Free Logo Design](https://www.freelogodesign.org/)
-* Images were taken from website [Pexels](https://www.pexels.com/)
-* Inspiration was taken from these two websites [The Brian McDermott Band](https://thebrianmcdermottband.ie/) and [Blacktye](https://blacktye.net/)
 
 ### Wireframes
 
@@ -176,4 +174,15 @@ To run project locally:
 ## Credits
 
 ### Content
+
+* Inspiration was taken from these two websites [The Brian McDermott Band](https://thebrianmcdermottband.ie/) and [Blacktye](https://blacktye.net/)
+* Images were taken from website [Pexels](https://www.pexels.com/)
+
+### Acknowledgements
+
+I would like to firstly thank my mentor Victor Miclovich who guided me throughout this project and helped point me in the right direction making it a great learning experience. His opinions were always greatly appreciated.
+
+To my family and friends who helped provide great and honest feedback throughout the project.
+
+And finally thanks to the slack community for whenever i got stuck on a problem, research always pointed me in the right direction.
 
