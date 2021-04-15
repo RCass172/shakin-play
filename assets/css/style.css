@@ -116,7 +116,9 @@ body {
     padding: 30px;
 }
 
-.about-us .btn, .form-box .btn {
+.about-us .btn, 
+.form-box .btn,
+.modal-body .btn {
     color: #fff;
     background-color: #2F4858;
     border-color: #2F4858;
